@@ -1,0 +1,28 @@
+h1{
+    color:blueviolet  
+  }
+
+  body{
+      background-color: burlywood;
+  }
+  .header{
+      background-color: plum;
+      display : flex ;
+      justify-content: space-between
+  }
+ .grid{
+     display : flex;
+     flex-wrap : wrap;
+     justify-content : space-evenly
+ }
+ .footer{
+  
+    display : flex;
+     justify-content: flex-end;
+ }
+ p,h2{
+    font-size  : 25px;  
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+ }
